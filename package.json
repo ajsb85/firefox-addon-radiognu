@@ -7,7 +7,7 @@
   "translators": ["Fatma Youssef"],
   "homepage": "http://radiognu.org",
   "license": "GPL 3.0",
-  "version": "0.3",
+  "version": "0.3.1",
   "engines": {
     "firefox": ">=26.0 <=40.0"
   },
