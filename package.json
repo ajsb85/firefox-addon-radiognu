@@ -3,11 +3,14 @@
   "title": "RadioGNU Scrobbler",
   "id": "{e66ae8f0-e298-11e4-b571-0800200c9a66}",
   "description": "RadioGNU Scrobbler for Libre.fm.\n \nGNU FM is free software for running music community websites. It was created for the music community site, Libre.fm",
-  "author": "Alexander Salas",
+  "author": "Alexander J. Salas B.",
   "translators": ["Fatma Youssef"],
   "homepage": "http://radiognu.org",
-  "license": "MPL 2.0",
-  "version": "0.2",
+  "license": "GPL 3.0",
+  "version": "0.3",
+  "engines": {
+    "firefox": ">=26.0 <=40.0"
+  },
   "permissions": {
       "cross-domain-content": ["https://libre.fm/", "http://radiognu.org/"]
   },
