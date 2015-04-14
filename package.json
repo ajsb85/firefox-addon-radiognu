@@ -1,0 +1,27 @@
+{
+  "name": "firefox-addon-radiognu",
+  "title": "RadioGNU Scrobbler",
+  "id": "{e66ae8f0-e298-11e4-b571-0800200c9a66}",
+  "description": "RadioGNU Scrobbler for Libre.fm.\n \nGNU FM is free software for running music community websites. It was created for the music community site, Libre.fm",
+  "author": "Alexander Salas",
+  "translators": ["Fatma Youssef"],
+  "homepage": "http://radiognu.org",
+  "license": "MPL 2.0",
+  "version": "0.2",
+  "permissions": {
+      "cross-domain-content": ["https://libre.fm/", "http://radiognu.org/"]
+  },
+  "preferences": [{
+    "name": "username",
+    "title": "Username on Libre.fm",
+    "description": "This username is used to generate de session of the scrobbler.",
+    "type": "string",
+    "value": ""
+  }, {
+    "name": "notifications",
+    "title": "Track notification change",
+    "description": "This option enable native notification in the browser.",
+    "type": "bool",
+    "value": true
+  }]
+}

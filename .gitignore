@@ -1,3 +1,9 @@
+# Mozilla Add-ons
+*.xpi
+*.jar
+*.zip
+*.xulapp
+
 # Logs
 logs
 *.log
