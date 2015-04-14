@@ -12,7 +12,8 @@
     "firefox": ">=26.0 <=40.0"
   },
   "permissions": {
-      "cross-domain-content": ["https://libre.fm/", "http://radiognu.org/"]
+      "cross-domain-content": ["https://libre.fm/", "http://radiognu.org/"],
+      "multiprocess": true
   },
   "preferences": [{
     "name": "username",
