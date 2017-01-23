@@ -1,5 +1,7 @@
 ### RadioGNU Scrobbler
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ajsb85/firefox-addon-radiognu.svg)](https://greenkeeper.io/)
+
 RadioGNU Scrobbler para Libre.fm.
 
 Este add-on se integra con el sistema de recomendación de música Libre.fm el cual construye perfiles y estadísticas sobre gustos musicales, basándose en los datos enviados por los usuarios registrados.
